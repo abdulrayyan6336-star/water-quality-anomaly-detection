@@ -1,0 +1,6 @@
+{
+  "name": "AquaShield AI - Water Quality Anomaly Detection & Smart Sampling Prioritizer",
+  "description": "AI-powered water quality monitoring, machine learning anomaly detection with Isolation Forest, smart sampling prioritization algorithm, and REST API platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
